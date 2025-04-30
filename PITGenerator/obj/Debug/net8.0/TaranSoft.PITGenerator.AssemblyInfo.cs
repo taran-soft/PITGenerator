@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaranSoft.PITGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f2a0009bc331871dceec73909906565e6a2dbfb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaranSoft.PITGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaranSoft.PITGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

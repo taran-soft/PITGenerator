@@ -2,6 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/PITGenerator/bin/Debug/net8.0/TaranSoft.PITGenerator.dll
-/PITGenerator/bin/Debug/net8.0/TaranSoft.PITGenerator.exe
-/PITGenerator/bin/Debug/net8.0/TaranSoft.PITGenerator.pdb
+/PITGenerator/bin/Debug/net8.0/*
+/PITGenerator/.vs/*
